@@ -1,0 +1,17 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<title> Home
+</title>
+</head>
+<body>
+<div id="menu">
+<ul>
+    <li><a href="home.html">Home</a></li>
+	<li><a href="music.html">Music</a></li>
+	<li><a href="image.html">Image</a></li>
+	<li><a href="video.html">Video</a></li>
+</ul>
+
+</body>
+</html>
